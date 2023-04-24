@@ -8,6 +8,7 @@ import {TbAmbulance} from 'react-icons/tb'
 import logo from './images/healTracjk.jpg'
 import doc from './images/Sprints1.jpg'
 import { ConnectButton } from "@rainbow-me/rainbowkit";
+
 function Landing() {
   return (
     <Box>

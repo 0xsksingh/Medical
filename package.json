@@ -9,6 +9,7 @@
     "@fortawesome/free-regular-svg-icons": "^6.4.0",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
+    "@lighthouse-web3/sdk": "^0.2.1",
     "@mui/material": "^5.11.15",
     "@rainbow-me/rainbowkit": "^0.12.9",
     "@remix-run/node": "^1.14.3",

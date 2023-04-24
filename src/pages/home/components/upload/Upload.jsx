@@ -209,7 +209,7 @@ import "./upload.css";
 import { Box, Button, FormControl, Input, Stack, TextField, Typography,Banner } from '@mui/material';
 import styled from '@emotion/styled';
 import { NFTStorage, File, Blob } from "nft.storage";
-
+import Lighthouseupload from "../lighthouse/upload";
 
 const StyledBox = styled(Box)({
   position: 'absolute',
@@ -389,8 +389,11 @@ function Upload({ contract }) {
 
             </div>
             <Button variant="contained" color="success" className="addrecord-btn"
-            onClick={addRecord}>Add Record</Button>
+              onClick={addRecord}>Add Record
+            </Button>
 
+            <h2>Add your Medical Records</h2>
+            <Lighthouseupload />
           </form>
           </Stack>
         </div>
