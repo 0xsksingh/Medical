@@ -19,7 +19,7 @@ function Landing() {
         position:'sticky',
         zIndex:'1',
         top:'0',
-        opacity:'.7',
+        // opacity:'.7',
       }}>
         <Stack
         direction={{ xs: 'column', sm: 'row' }}
@@ -170,12 +170,7 @@ function Landing() {
           <Link sx={{ p: 1 }} href="/contact-us">Contact Us</Link>
         </Box>
         <Box sx={{ mt: 2 }}>
-          <Typography variant="body2">Stay Connected:</Typography>
-          <Box sx={{ display: 'flex', justifyContent: 'center' }}>
-            <Link sx={{ p: 1 }} href="https://www.instagram.com/">Instagram</Link>
-            <Link sx={{ p: 1 }} href="https://www.twitter.com/">Twitter</Link>
-            <Link sx={{ p: 1 }} href="https://www.facebook.com/">Facebook</Link>
-          </Box>
+          <Typography variant="body2">Made with ❤️ Technorist Team </Typography>
         </Box>
       </Typography>
     </Box>
