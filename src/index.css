@@ -1,0 +1,37 @@
+/* body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+:root {
+  --main-bg: #2a2a2a;
+  --pri-bg: #2f2f2f;
+  --sec-bg: #363636;
+
+  --green: #70ff00;
+  --yellow: #ffc530;
+  --red: #ff3333;
+
+  --oncolor-text: #4d4d4d;
+}
+
+* {
+  background: var(--main-bg);
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+a,
+button {
+  color: white;
+  text-decoration: none;
+} */
+:root{
+  /* background: #08ac9c; */
+
+background: #85cddf !important;
+}
