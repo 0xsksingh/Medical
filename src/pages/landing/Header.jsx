@@ -11,7 +11,7 @@ export default function Header() {
         <Typography variant='h2'
 
         >
-          Healtrack
+          HealthMine
         </Typography>
         <Typography variant='h6'
         sx={{ml:'10%',fontWeight:'heavy'}}

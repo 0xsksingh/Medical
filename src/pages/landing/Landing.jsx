@@ -108,7 +108,7 @@ function Landing() {
             fontWeight:'bold',
 
           }}
-          >Heal</Typography>
+          >Health</Typography>
           <Typography variant='h3'
           sx={{
             display:'inline-block',
@@ -116,7 +116,7 @@ function Landing() {
             fontWeight:'bold',
 
           }}
-          >Track</Typography>
+          >Mine</Typography>
         </Box>
 
         <Box>

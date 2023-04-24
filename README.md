@@ -1,4 +1,8 @@
-# Medical Records Management: 
+# HealthMine
+
+Your health, your data, your choice
+
+Medical Records Management
 
 Features -> 
 
