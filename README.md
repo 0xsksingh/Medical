@@ -1,5 +1,8 @@
 # HealthMine
 
+![healthlogo](https://user-images.githubusercontent.com/129384571/234023137-70b36643-8895-48bc-8aaa-e5ef31bfb0a2.png)
+
+
 Your health, your data, your choice
 
 Medical Records Management
